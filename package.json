@@ -1,0 +1,24 @@
+{
+  "name": "KFS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Natsusomekeishi/KFS.git",
+  "author": "Natsusomekeishi",
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress-reco/vuepress-plugin-bgm-player": "^1.1.4",
+    "vuepress": "^1.9.5",
+    "vuepress-plugin-copyright": "^1.0.2",
+    "vuepress-plugin-cursor-effects": "^1.1.2",
+    "vuepress-plugin-fulltext-search": "^2.2.1"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "dependencies": {
+    "markdown-it-task-checkbox": "^1.0.6",
+    "moment": "^2.29.1",
+    "vuepress-plugin-sitemap": "^2.3.1"
+  }
+}
