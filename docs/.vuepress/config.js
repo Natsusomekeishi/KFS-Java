@@ -2,7 +2,7 @@ const autometa_options = {
     site: {
         name: 'KFS 服务器',
     },
-    canonical_base: 'https://hello.mckfs.com',
+    canonical_base: 'https://je.mckfs.com',
 };
 
 module.exports = {
@@ -24,18 +24,12 @@ module.exports = {
                 ],
                 sidebar: [
                     ['/', '首页'],
-                    ['/ServerHistory', '服务器历史'],
-                    ['/AuditDescription', '审核说明'],
-                    ['/AuditProcess', '入服审核流程'],
-                    ['/ServerRules', '服务器现行规则'],
+                    ['/Start', '加入我们'],
+                    ['/Payment', '充值项目'],
                     ['/JoinServer', '加入服务器的方法'],
-                    ['/JoinFailed', '入服错误排查'],
+                    ['/JoinFailed', '无法入服错误排查'],
                     ['/Otherhelp', '其他教学'],
-                    ['/Status', '服务器状态'],
-                    ['/Donation', '服务器月租缴纳'],
-                    ['/Evaluation', '服务器评价'],
-                    ['/HonorRoll', '服务器名人榜'],
-                    ['/Position', '服务器任职一览'],
+                    ['/ServerHistory', '服务器历史'],
                     ['/Other', '其他内容'],
                     ['/Email', '反馈信箱'],
                 ]

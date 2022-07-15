@@ -1,4 +1,4 @@
-# <div align="center"><font color=#FD366D>错误排查</font></div>
+# <div align="center"><font color=#FD366D>无法入服错误排查</font></div>
 ::: tip 提示
 如果你无法进入，请按照下面的方式进行错误排查。
 建议明确游戏加载页面的错误提示，按序号依次进行修改。

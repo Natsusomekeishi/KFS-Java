@@ -3,8 +3,8 @@ home: true
 heroImage: /favicon.ico
 heroText: KFS服务器
 tagline: 云星岛服务器官网
-actionText: 查看服规
-actionLink: /ServerRules
+actionText: 加入我们
+actionLink: /Start
 features:
 - title: 模组多
   details: 上百个模组带给你丰富的游玩体验！
