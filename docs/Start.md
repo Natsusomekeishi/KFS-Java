@@ -1,1 +1,1 @@
-# <div align="center"><font color=#FD366D>服务器现行规则</font></div>
+# <div align="center"><font color=#FD366D>新手指南</font></div>
