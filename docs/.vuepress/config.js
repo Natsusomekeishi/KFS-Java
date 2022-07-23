@@ -28,8 +28,8 @@ module.exports = {
                     ['/Payment', '充值介绍'],
                     ['/JoinFailed', '错误排查'],
                     ['/Otherhelp', '其他教学'],
-                    ['/ServerHistory', '服务器历史'],
                     ['/Other', '其他内容'],
+                    ['/ServerHistory', '服务器历史'],
                     ['/Email', '反馈信箱'],
                 ]
             },
