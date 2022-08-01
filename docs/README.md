@@ -21,11 +21,11 @@ features:
 
 [新手指南](/Start.md) ：新手入服指南/基础指令
 
+[插件介绍](/Otherhelp.md) ：服务器插件及指令介绍
+
 [充值介绍](/Payment.md) ：服务器内充值项目一览/退款说明
 
 [错误排查](/JoinFailed.md) ：无法正常游玩服务器排查
-
-[其他教学](/Otherhelp.md) ：详细的指令介绍
 
 [其他内容](/Other.md) ：其他服务器杂项内容
 
