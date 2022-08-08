@@ -25,11 +25,11 @@ module.exports = {
                 sidebar: [
                     ['/', '首页'],
                     ['/Start', '新手指南'],
-                    ['/Payment', '充值介绍'],
-                    ['/JoinFailed', '错误排查'],
-                    ['/Otherhelp', '其他教学'],
+                    ['/Pay', '充值介绍'],
+                    ['/Earrorhelp', '错误帮助'],
+                    ['/Help', '插件教学'],
                     ['/Other', '其他内容'],
-                    ['/ServerHistory', '服务器历史'],
+                    ['/History', '服务器历史'],
                     ['/Email', '反馈信箱'],
                 ]
             },
