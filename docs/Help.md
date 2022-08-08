@@ -245,4 +245,6 @@
 
 /res rc kick [玩家] —— 从频道中踢出玩家
 
+![res8.png](https://a.ideaopen.cn/Keishi/iZU79gG4.png)
+
 ## 粘液科技
