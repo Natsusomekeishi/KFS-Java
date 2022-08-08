@@ -1,12 +1,6 @@
 # <div align="center"><font color=#FD366D>插件教学</font></div>
 
-::: tip 目录
-
-[领地系统](/Help.md/##领地系统) 
-
-[粘液科技](/Help.md/##粘液科技) 
-
-:::
+[[toc]]
 
 ## 领地系统
 
