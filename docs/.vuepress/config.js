@@ -20,13 +20,14 @@ module.exports = {
                 selectText: '语言',
                 label: '简体中文',
                 nav: [
-                    { text: '反馈信箱', link: 'https://be.mckfs.com/Email.html' },{ text: ' 已成立时间', link: 'https://page.mckfs.com/time' },{ text: ' 加入我们', link: 'https://jq.qq.com/?_wv=1027&k=Jt7HJeKV' },
+                    { text: '反馈信箱', link: 'https://be.mckfs.com/Email.html' },{ text: ' 总官网', link: 'https://mckfs.com/' },{ text: ' 加入我们', link: 'https://jq.qq.com/?_wv=1027&k=Jt7HJeKV' },
                 ],
                 sidebar: [
                     ['/', '首页'],
                     ['/Start', '新手指南'],
                     ['/Pay', '充值介绍'],
                     ['/Help', '插件教学'],
+                    ['/Price', '金币物价'],
                     ['/Earrorhelp', '错误帮助'],
                     ['/Other', '其他内容'],
                     ['/History', '服务器历史'],
