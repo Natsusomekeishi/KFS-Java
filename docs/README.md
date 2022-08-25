@@ -54,7 +54,7 @@ features:
 
 - - -
 * 云星岛服务器玩家群：[948253637](https://jq.qq.com/?_wv=1027&k=Xo5lnMB5)
-* KFS服务器总群：[993260901](https://jq.qq.com/?_wv=1027&k=mS9tw9Gi)
+* KFS服务器总群：[314707427](https://jq.qq.com/?_wv=1027&k=1REEWvMZ)
 * 本页面快速浏览链接：[je.mckfs.com](https://je.mckfs.com)
 
 ![Logo_Long.jfif](/img/Logo_Long.jfif)
