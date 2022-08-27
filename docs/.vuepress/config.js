@@ -12,6 +12,7 @@ module.exports = {
     head: [
         ['link', { rel: 'icon', href: '/favicon.ico' }]
     ],
+    theme: 'reco',
     themeConfig: {
         logo: '/favicon.ico',
         lastUpdated: '上次更新',
